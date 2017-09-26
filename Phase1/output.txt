@@ -1,0 +1,24 @@
+invalid expression
+invalid expression
+invalid expression
+id
+invalid expression
+id
+mulop
+id
+mulop
+addop
+addop
+id
+invalid expression
+)
+(
+invalid expression
+invalid expression
+invalid expression
+id
+invalid expression
+id
+invalid expression
+id
+num
